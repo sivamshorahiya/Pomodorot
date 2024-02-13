@@ -31,16 +31,11 @@ The sweet and guided voice of Pomodorot is your personal productivity coach. It 
 Pomodorot goes beyond being a timer. It's also your learning resource hub. The app includes a dedicated "Learning Tab" where you can explore in-depth information about the Pomodoro Technique. Discover the science behind it, the psychology of productivity, and expert insights to help you maximize your efficiency.
 
 
-**Your Productivity Companion, Anywhere**
-
-Pomodorot is available on multiple platforms, including web, mobile (iOS and Android), and desktop (Windows and macOS). This means you can access your productivity companion from your preferred device, ensuring your productivity doesn't stop, no matter where you are.
-
-
 **A Simpler, More Productive You**
 
 Pomodorot isn't just an app; it's a mindset shift. With its user-friendly interface, minimalistic design, and a commitment to keeping things simple, it empowers you to tackle your tasks with renewed energy and focus. This means achieving more in less time, reducing stress, and regaining control of your work or study life.
 
-Say goodbye to distractions, procrastination, and unproductive work habits. Say hello to Pomodorot and embrace a simpler, more productive you. [Download the app today](https://www.amazon.com/your-app-link)
+Say goodbye to distractions, procrastination, and unproductive work habits. Say hello to Pomodorot and embrace a simpler, more productive you. [Download the app today](https://www.amazon.in/DevSiva-Pomodorot/dp/B0CL9NS8FD)
  and start unlocking your true potential with the Pomodoro Technique. Your journey to enhanced productivity and focus begins here.
 
 Pomodorot is your partner in making every minute count, allowing you to achieve your goals one Pomodoro at a time.
